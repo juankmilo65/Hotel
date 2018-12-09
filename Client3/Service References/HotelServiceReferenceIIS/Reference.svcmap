@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="7ff15bf1-b943-4470-8dea-0d5fb88296ae" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="https://juank/HotelService.svc?wsdl" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="HotelService.xsd" MetadataType="Schema" ID="4132bf78-13f0-4ce6-8a6a-ed1dafd87093" SourceId="1" SourceUrl="https://juank/HotelService.svc?xsd=xsd0" />
+    <MetadataFile FileName="HotelService1.xsd" MetadataType="Schema" ID="be45dfad-c0f8-4464-b8ea-a322e8520285" SourceId="1" SourceUrl="https://juank/HotelService.svc?xsd=xsd1" />
+    <MetadataFile FileName="HotelService1.wsdl" MetadataType="Wsdl" ID="9b7c6048-b3c9-4d7b-9974-fc552207612a" SourceId="1" SourceUrl="https://juank/HotelService.svc?wsdl" />
+    <MetadataFile FileName="HotelService2.xsd" MetadataType="Schema" ID="e587157a-741c-422a-9bde-211622742299" SourceId="1" SourceUrl="https://juank/HotelService.svc?xsd=xsd2" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

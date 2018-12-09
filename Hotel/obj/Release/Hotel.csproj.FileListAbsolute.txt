@@ -1,0 +1,9 @@
+D:\Trabajo\webservice chile\Hotel\Hotel\bin\Hotel.dll.config
+D:\Trabajo\webservice chile\Hotel\Hotel\bin\Hotel.dll
+D:\Trabajo\webservice chile\Hotel\Hotel\bin\Hotel.pdb
+D:\Trabajo\webservice chile\Hotel\Hotel\obj\Release\Hotel.dll
+D:\Trabajo\webservice chile\Hotel\Hotel\obj\Release\Hotel.pdb
+D:\Trabajo\webservice chile\Hotel\Hotel\obj\Release\Hotel.Resources.resources
+D:\Trabajo\webservice chile\Hotel\Hotel\obj\Release\Hotel.csproj.GenerateResource.Cache
+D:\Trabajo\webservice chile\Hotel\Hotel\obj\Release\Hotel.csprojResolveAssemblyReference.cache
+D:\Trabajo\webservice chile\Hotel\Hotel\bin\Microsoft.Web.Services3.dll
